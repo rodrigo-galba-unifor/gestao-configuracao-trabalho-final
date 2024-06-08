@@ -4,6 +4,7 @@
 
 - Adicionado arquivo .env com as variáveis.
 - Adicionado arquivo gitignore. Adicionado .credentials ao arquivo gitignore.
+- Modificando arquivo gitignore
 
 ##Variáveis de ambiente
 ####links
