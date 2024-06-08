@@ -1,3 +1,3 @@
-# Lista de alunos por nome
+# Lista de alunos por nome.
 
 - Maria Elisa Gomes de Matos: https://github.com/mariaelisagmt/
