@@ -1,0 +1,1 @@
+No arquivo .env estão variáveis fictícias para simular variáveis de ambiente de uma aplicação
