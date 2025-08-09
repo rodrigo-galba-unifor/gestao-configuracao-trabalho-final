@@ -1,0 +1,53 @@
+[33mcommit db47d74a3aacbfceb9248b418a73a8ba6314efdb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m
+Author: Kayan Kayser <kayankayser10@gmail.com>
+Date:   Sat Aug 9 10:15:01 2025 -0300
+
+    Adicionando imagem do hstorico
+
+[33mcommit d693869e370d9cb469f82e1e2ee100d5bb2e4390[m
+Author: Kayan Kayser <kayankayser10@gmail.com>
+Date:   Sat Aug 9 09:32:37 2025 -0300
+
+    Adicionando data ao README
+
+[33mcommit bd73945dea4c16467238850af751c02fac79ebf9[m
+Author: Kayan Kayser <kayankayser10@gmail.com>
+Date:   Sat Aug 9 09:31:11 2025 -0300
+
+    Modificando README
+
+[33mcommit b0a23d3026db047cb46115eb268e26659244e292[m
+Author: Kayan Kayser <kayankayser10@gmail.com>
+Date:   Sat Aug 9 09:29:20 2025 -0300
+
+    Criando credencials e ignorando
+
+[33mcommit 763d700ef7b725a4ed709281a718246ea5f4d81a[m
+Author: Kayan Kayser <kayankayser10@gmail.com>
+Date:   Sat Aug 9 09:26:18 2025 -0300
+
+    Adicionando arquivo env-template e ignorando env
+
+[33mcommit 702b95fc30d2b46ca35244a989de7882e83684e7[m
+Author: Kayan Kayser <kayankayser10@gmail.com>
+Date:   Sat Aug 9 09:19:22 2025 -0300
+
+    Adicionando arquivo README.md
+
+[33mcommit 382f1cad7730f2600ca898f8fbc14d2114b5f756[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: rodrigo-galba-unifor <167586716+rodrigo-galba-unifor@users.noreply.github.com>
+Date:   Sat Jun 8 08:57:43 2024 -0300
+
+    Create alunos.md
+
+[33mcommit a5652071509c681c7567975b5407684475a66834[m
+Author: rodrigo-galba-unifor <167586716+rodrigo-galba-unifor@users.noreply.github.com>
+Date:   Sat Jun 8 08:29:36 2024 -0300
+
+    Update README.md
+
+[33mcommit 0f866bdd62c3313434a73555eee12c9ba5e4c387[m
+Author: rodrigo-galba-unifor <167586716+rodrigo-galba-unifor@users.noreply.github.com>
+Date:   Sat Jun 8 08:28:49 2024 -0300
+
+    Create README.md
